@@ -1,3 +1,59 @@
+
+body {
+  background-color: #fff;
+  font-family: "Roboto", Arial, Tahoma, sans-serif;
+  font-size: 16px;
+  line-height: 1.5; }
+
+p {
+  font-size: 16px;
+  line-height: 1.5; }
+
+/* ================= */
+/*  Heading Styles 
+/* ================= */
+h1 {
+  font-size: 36px;
+  font-size: 2.25em;
+  line-height: 1.25em;
+  font-weight: 700;
+  margin-top: 0; }
+
+h2 {
+  font-size: 32px;
+  font-size: 2em;
+  line-height: 1.25em;
+  font-weight: 700;
+  margin-top: 0; }
+
+h3 {
+  font-size: 28px;
+  font-size: 1.75em;
+  line-height: 1.25em;
+  font-weight: 700;
+  margin-top: 0; }
+
+h4 {
+  font-size: 24px;
+  font-size: 1.5em;
+  line-height: 1.25em;
+  font-weight: 700;
+  margin-top: 0; }
+
+h5 {
+  font-size: 20px;
+  font-size: 1.25em;
+  line-height: 1.25em;
+  font-weight: 700;
+  margin-top: 0; }
+
+h6 {
+  font-size: 16px;
+  font-size: 1em;
+  line-height: 1.25em;
+  font-weight: 700;
+  margin-top: 0; }
+
 .banner{ 
     background: rgba(253, 255, 253, 0.562);
 }
